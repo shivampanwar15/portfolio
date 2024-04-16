@@ -80,7 +80,7 @@ export default function Navbar() {
               </li>
               <li className="hover:text-gray-600 font-bold text-lg bg-black">
                 <a
-                  href="https://drive.google.com/file/d/1D4_vZwpLx8o5XM_Bu5qeG78TqnlJIPik/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1ZnlzGamcLJqgE7oxb7pZrs8mdNW1tvwX/view?usp=share_link"
                   className=" text-secondary hover:text-primary bg-black" onClick={() => setNavbar(!navbar)}
                   target="_blank"
                   >
